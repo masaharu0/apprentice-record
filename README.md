@@ -1,1 +1,1 @@
-# -apprentice-record
+# 記録用です
